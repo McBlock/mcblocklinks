@@ -1,38 +1,50 @@
 command /website:
 	description: Shows the official website
 	trigger:
-		message "&bThe website is mcblock.co.uk!"
+		message "&f[&3Links&f] &bThe website is mcblock.co.uk!"
 command /web:
 	description: Shows the official website
 	trigger:
-		message "&bThe website is mcblock.co.uk!"
+		message "&f[&3Links&f] &bThe website is mcblock.co.uk!"
 command /discord:
 	description: Shows the Discord link
 	trigger:
-		message "&f[&3Links&f]&aHere is the Discord link: https://discord.gg/8PBRgh5"
+		message "&f[&3Links&f] &aHere is the Discord link: https://discord.gg/8PBRgh5"
 command /curse:
 	description: Shows the Curse link
 	trigger:
-		message "&&f[&3Links&f]6Here is the Curse link:https://curse.com/invite/ybwPTztooEysPQEPfJIJ2g"
+		message "&&f[&3Links&f] 6Here is the Curse link:https://curse.com/invite/ybwPTztooEysPQEPfJIJ2g"
 		
 command /youtube:
 	description: Shows the McBlock YouTube channel link
 	trigger:
-		message "&f[&3Links&f]&cSubscribe to our channel here:https://www.youtube.com/channel/UCRxui0FafKpGeQSYzC2nDvw"
+		message "&f[&3Links&f] &cSubscribe to our channel here:https://www.youtube.com/channel/UCRxui0FafKpGeQSYzC2nDvw"
 command /yt:
 	description: Shows the McBlock YouTube channel link
 	trigger:
-		message "&f[&3Links&f]&cSubscribe to our channel here:https://www.youtube.com/channel/UCRxui0FafKpGeQSYzC2nDvw"
+		message "&f[&3Links&f] &cSubscribe to our channel here:https://www.youtube.com/channel/UCRxui0FafKpGeQSYzC2nDvw"
 command /googleplus:
 	description: Shows the McBlock Google+ link
 	trigger:
-		message "&f[&3Links&f]&dFollow our Google+ here:https://plus.google.com/109011128771992949001"
+		message "&f[&3Links&f] &dFollow our Google+ here:https://plus.google.com/109011128771992949001"
 command /google+:
 	description: Shows the McBlock Google+ link
 	trigger:
-		message "&f[&3Links&f]&dFollow our Google+ here:https://plus.google.com/109011128771992949001"
+		message "&f[&3Links&f] &dFollow our Google+ here:https://plus.google.com/109011128771992949001"
 command /links:
 	description: Shows the commands
 	trigger:
-		message "&f[&3Links&f]&3/curse, /discord, /web, /website, /googleplus, /google+, /youtube, /yt"					
+		message "&f[&3Links&f] &3/curse, /discord, /web, /website, /googleplus, /google+, /youtube, /yt"
+command /about:
+	description: About Us
+	trigger:
+		message "&f[&3Links&f] &3Go to mcblock.co.uk/about"
+command /apply builder:
+	description: About Us
+	trigger:
+		message "&f[&3Links&f] &3Go to http://bit.ly/2gExKmf"
+command /apply youtuber:
+	description: About Us
+	trigger:
+		message "&f[&3Links&f] &3Go to http://bit.ly/2hmWRrR"
 		
