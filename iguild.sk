@@ -1,4 +1,0 @@
-command /iguild:
-	description: Shows the official website
-	trigger:
-		message ""&f[I&cGuild&f] &bThe website is mcblock.co.uk!"
